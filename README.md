@@ -2,7 +2,7 @@
 ## 中南林业科技大学涉外学院校园网自动登录-DrCOM自动登录
 
 ### 需要提前安装好Python，将xyw.py xyw.bat放到一个文件夹内，配置好后点击xyw.bat即可运行
-
+### 开机自动运行xyw.bat 即可开机自动登录校园网（具体可以百度开机自动运行bat文件）
 ### 第一步
   F12开启浏览器调试模式
 ![1](https://github.com/qc-wl/SWXY-WIFI-AutoLogin/assets/53658530/b46d0e3f-afe2-47f2-af38-253b1ccc1e3e)
